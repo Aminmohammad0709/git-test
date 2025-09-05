@@ -1,1 +1,1 @@
-console.log('signup section')
+console.log('sign up  section')
